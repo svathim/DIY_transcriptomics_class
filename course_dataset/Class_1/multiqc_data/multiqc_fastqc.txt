@@ -1,0 +1,11 @@
+Sample	adapter_content	Sequences flagged as poor quality	sequence_duplication_levels	avg_sequence_length	Encoding	per_base_sequence_quality	sequence_length_distribution	Sequence length	File type	basic_statistics	per_sequence_gc_content	Total Sequences	per_base_n_content	per_base_sequence_content	overrepresented_sequences	%GC	total_deduplicated_percentage	Filename	per_sequence_quality_scores
+ | SRR8668755_10K_subsample	pass	0.0	pass	74.4869	Sanger / Illumina 1.9	pass	warn	35-75	Conventional base calls	pass	warn	10000.0	pass	fail	warn	50.0	88.15	SRR8668755_10K_subsample.fastq.gz	pass
+ | SRR8668756_10K_subsample	pass	0.0	pass	74.3183	Sanger / Illumina 1.9	pass	warn	35-75	Conventional base calls	pass	warn	10000.0	pass	fail	warn	48.0	94.19	SRR8668756_10K_subsample.fastq.gz	pass
+ | SRR8668757_10K_subsample	pass	0.0	pass	74.4711	Sanger / Illumina 1.9	pass	warn	35-75	Conventional base calls	pass	warn	10000.0	pass	fail	warn	47.0	92.37	SRR8668757_10K_subsample.fastq.gz	pass
+ | SRR8668758_10K_subsample	pass	0.0	pass	72.7371	Sanger / Illumina 1.9	pass	warn	35-75	Conventional base calls	pass	warn	10000.0	pass	fail	warn	49.0	95.33	SRR8668758_10K_subsample.fastq.gz	pass
+ | SRR8668759_10K_subsample	pass	0.0	pass	72.7883	Sanger / Illumina 1.9	pass	warn	35-75	Conventional base calls	pass	fail	10000.0	pass	fail	fail	57.0	88.18	SRR8668759_10K_subsample.fastq.gz	pass
+ | SRR8668769_10K_subsample	pass	0.0	pass	74.4802	Sanger / Illumina 1.9	pass	warn	35-75	Conventional base calls	pass	fail	10000.0	pass	fail	warn	53.0	88.82	SRR8668769_10K_subsample.fastq.gz	pass
+ | SRR8668771_10K_subsample	pass	0.0	pass	74.5171	Sanger / Illumina 1.9	pass	warn	35-75	Conventional base calls	pass	fail	10000.0	pass	fail	warn	52.0	87.38	SRR8668771_10K_subsample.fastq.gz	pass
+ | SRR8668772_10K_subsample	pass	0.0	pass	74.479	Sanger / Illumina 1.9	pass	warn	40-75	Conventional base calls	pass	fail	10000.0	pass	fail	warn	50.0	89.2	SRR8668772_10K_subsample.fastq.gz	pass
+ | SRR8668773_10K_subsample	pass	0.0	pass	74.4618	Sanger / Illumina 1.9	pass	warn	35-75	Conventional base calls	pass	fail	10000.0	pass	fail	warn	50.0	91.82	SRR8668773_10K_subsample.fastq.gz	pass
+ | SRR8668774_10K_subsample	pass	0.0	pass	73.8314	Sanger / Illumina 1.9	pass	warn	35-75	Conventional base calls	pass	fail	10000.0	pass	fail	warn	49.0	92.88	SRR8668774_10K_subsample.fastq.gz	pass

@@ -1,0 +1,11 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	Kallisto | SRR8668755_1M_subsample	/home/svathim/DIY/Kallisto/SRR8668755_1M_subsamples.log
+Kallisto	all_sections	Kallisto | SRR8668769	/home/svathim/DIY/Kallisto/SRR8668769.log
+Kallisto	all_sections	Kallisto | SRR8668755	/home/svathim/DIY/Kallisto/SRR8668755.log
+Kallisto	all_sections	Kallisto | SRR8668757	/home/svathim/DIY/Kallisto/SRR8668757.log
+Kallisto	all_sections	Kallisto | SRR8668756	/home/svathim/DIY/Kallisto/SRR8668756.log
+Kallisto	all_sections	Kallisto | SRR8668758	/home/svathim/DIY/Kallisto/SRR8668758.log
+Kallisto	all_sections	Kallisto | SRR8668774	/home/svathim/DIY/Kallisto/SRR8668774.log
+Kallisto	all_sections	Kallisto | SRR8668773	/home/svathim/DIY/Kallisto/SRR8668773.log
+Kallisto	all_sections	Kallisto | SRR8668772	/home/svathim/DIY/Kallisto/SRR8668772.log
+Kallisto	all_sections	Kallisto | SRR8668771	/home/svathim/DIY/Kallisto/SRR8668771.log
